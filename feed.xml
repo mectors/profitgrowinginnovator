@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Profit Growing Innovator</title>
+    <title>The Profit Growing Innovator</title>
     <link href="https://profitgrowinginnovator.com/feed.xml" rel="self" />
     <link href="https://profitgrowinginnovator.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2021-05-11T14:30:29+01:00</updated>
     <author>
         <name>Maarten Ectors</name>
     </author>
     <id>https://profitgrowinginnovator.com</id>
 
+    <entry>
+        <title>The Profit Growing Innovator</title>
+        <author>
+            <name>Maarten Ectors</name>
+        </author>
+        <link href="https://profitgrowinginnovator.com/the-profit-growing-innovator.html"/>
+        <id>https://profitgrowinginnovator.com/the-profit-growing-innovator.html</id>
+
+        <updated>2021-05-11T14:30:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://profitgrowinginnovator.com/media/posts/1/Screenshot-2021-03-24-at-15.28.32.png" alt="" />
+                    Most people are either business-oriented or technical, operational or strategic,... Each department&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://profitgrowinginnovator.com/media/posts/1/Screenshot-2021-03-24-at-15.28.32.png" alt="" />
+                <p>Most people are either business-oriented or technical, operational or strategic,... Each department is traditionally led by a Chief eXpert Officer [CxO], from finance, risk, IT,... In business the rules to win were economies of scale and efficiencies. Have more sales people, branches, call centres, intermediaries,... and organise them more efficiently so you end up being the market leader.  </p>
+<p>All of a sudden the digital revolution came and loss-making companies are worth billions, products are offered for free, a new technology seems to be born every day, a global pandemic,...</p>
+<p>To be successful in the digital era, you need to create new digital products in a world of abundance and be able to scale them up globally before anybody copies them tomorrow. Finding market fit and making products customers love. Being able to automate companies. Rethink go-to-market, pricing, operations, risk management, deployment, finance,... Foresee the future and build today a solution for tomorrow's problem so you will be the only company tomorrow that has a solution for today's problem.</p>
+<p>Perhaps it is time to talk to the profit growning innovator and ask business questions about the latest technologies, use technology to launch a new business model, a strategy to automate operations, foresee the future and build a solution today, how to deliver profits through innovation, ...? <a href="https://maartenectors.typeform.com/to/La90XrYe" target="_blank" rel="noopener noreferrer">Let us know how we can help</a>...</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

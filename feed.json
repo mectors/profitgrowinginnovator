@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Profit Growing Innovator",
+    "title": "The Profit Growing Innovator",
     "description": "",
     "home_page_url": "https://profitgrowinginnovator.com",
     "feed_url": "https://profitgrowinginnovator.com/feed.json",
@@ -9,5 +9,20 @@
         "name": "Maarten Ectors"
     },
     "items": [
+        {
+            "id": "https://profitgrowinginnovator.com/the-profit-growing-innovator.html",
+            "url": "https://profitgrowinginnovator.com/the-profit-growing-innovator.html",
+            "title": "The Profit Growing Innovator",
+            "summary": "Most people are either business-oriented or technical, operational or strategic,... Each department&hellip;",
+            "content_html": "<p>Most people are either business-oriented or technical, operational or strategic,... Each department is traditionally led by a Chief eXpert Officer [CxO], from finance, risk, IT,... In business the rules to win were economies of scale and efficiencies. Have more sales people, branches, call centres, intermediaries,... and organise them more efficiently so you end up being the market leader.  </p>\n<p>All of a sudden the digital revolution came and loss-making companies are worth billions, products are offered for free, a new technology seems to be born every day, a global pandemic,...</p>\n<p>To be successful in the digital era, you need to create new digital products in a world of abundance and be able to scale them up globally before anybody copies them tomorrow. Finding market fit and making products customers love. Being able to automate companies. Rethink go-to-market, pricing, operations, risk management, deployment, finance,... Foresee the future and build today a solution for tomorrow's problem so you will be the only company tomorrow that has a solution for today's problem.</p>\n<p>Perhaps it is time to talk to the profit growning innovator and ask business questions about the latest technologies, use technology to launch a new business model, a strategy to automate operations, foresee the future and build a solution today, how to deliver profits through innovation, ...? <a href=\"https://maartenectors.typeform.com/to/La90XrYe\" target=\"_blank\" rel=\"noopener noreferrer\">Let us know how we can help</a>...</p>",
+            "image": "https://profitgrowinginnovator.com/media/posts/1/Screenshot-2021-03-24-at-15.28.32.png",
+            "author": {
+                "name": "Maarten Ectors"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-11T10:48:19+01:00",
+            "date_modified": "2021-05-11T14:30:29+01:00"
+        }
     ]
 }
